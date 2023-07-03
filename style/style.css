@@ -35,3 +35,14 @@ p{
     margin-top: 5px;
     padding: 15px;
 }
+button{
+    padding: 10px 12px;
+    border: 1px solid #000;
+    background-color: #000;
+    color: #F5F5F5;
+    outline: none;
+    cursor: pointer;
+    font-size: 14px;
+   text-transform: capitalize;
+   border-radius: 5px;
+}
